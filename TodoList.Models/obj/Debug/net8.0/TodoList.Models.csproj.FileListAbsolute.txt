@@ -1,0 +1,13 @@
+C:\Users\satis\Documents\Backend\todolist\TodoList\TodoList.Models\bin\Debug\net8.0\TodoList.Models.deps.json
+C:\Users\satis\Documents\Backend\todolist\TodoList\TodoList.Models\bin\Debug\net8.0\TodoList.Models.dll
+C:\Users\satis\Documents\Backend\todolist\TodoList\TodoList.Models\bin\Debug\net8.0\TodoList.Models.pdb
+C:\Users\satis\Documents\Backend\todolist\TodoList\TodoList.Models\obj\Debug\net8.0\TodoList.Models.csproj.AssemblyReference.cache
+C:\Users\satis\Documents\Backend\todolist\TodoList\TodoList.Models\obj\Debug\net8.0\TodoList.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satis\Documents\Backend\todolist\TodoList\TodoList.Models\obj\Debug\net8.0\TodoList.Models.AssemblyInfoInputs.cache
+C:\Users\satis\Documents\Backend\todolist\TodoList\TodoList.Models\obj\Debug\net8.0\TodoList.Models.AssemblyInfo.cs
+C:\Users\satis\Documents\Backend\todolist\TodoList\TodoList.Models\obj\Debug\net8.0\TodoList.Models.csproj.CoreCompileInputs.cache
+C:\Users\satis\Documents\Backend\todolist\TodoList\TodoList.Models\obj\Debug\net8.0\TodoList.Models.sourcelink.json
+C:\Users\satis\Documents\Backend\todolist\TodoList\TodoList.Models\obj\Debug\net8.0\TodoList.Models.dll
+C:\Users\satis\Documents\Backend\todolist\TodoList\TodoList.Models\obj\Debug\net8.0\refint\TodoList.Models.dll
+C:\Users\satis\Documents\Backend\todolist\TodoList\TodoList.Models\obj\Debug\net8.0\TodoList.Models.pdb
+C:\Users\satis\Documents\Backend\todolist\TodoList\TodoList.Models\obj\Debug\net8.0\ref\TodoList.Models.dll
