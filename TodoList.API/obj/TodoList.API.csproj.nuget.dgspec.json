@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\satis\\Documents\\Backend\\todolist\\TodoList\\TodoList.API\\TodoList.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\satis\\Documents\\Backend\\todolist\\TodoList\\TodoList.API\\TodoList.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\satis\\Documents\\Backend\\todolist\\TodoList\\TodoList.API\\TodoList.API.csproj",
+        "projectName": "TodoList.API",
+        "projectPath": "C:\\Users\\satis\\Documents\\Backend\\todolist\\TodoList\\TodoList.API\\TodoList.API.csproj",
+        "packagesPath": "C:\\Users\\satis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\satis\\Documents\\Backend\\todolist\\TodoList\\TodoList.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\satis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\satis\\Documents\\Backend\\todolist\\TodoList\\TodoList.Models\\TodoList.Models.csproj": {
+                "projectPath": "C:\\Users\\satis\\Documents\\Backend\\todolist\\TodoList\\TodoList.Models\\TodoList.Models.csproj"
+              },
+              "C:\\Users\\satis\\Documents\\Backend\\todolist\\TodoList\\TodoList.Tests\\TodoList.Tests.csproj": {
+                "projectPath": "C:\\Users\\satis\\Documents\\Backend\\todolist\\TodoList\\TodoList.Tests\\TodoList.Tests.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\satis\\Documents\\Backend\\todolist\\TodoList\\TodoList.Models\\TodoList.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\satis\\Documents\\Backend\\todolist\\TodoList\\TodoList.Models\\TodoList.Models.csproj",
+        "projectName": "TodoList.Models",
+        "projectPath": "C:\\Users\\satis\\Documents\\Backend\\todolist\\TodoList\\TodoList.Models\\TodoList.Models.csproj",
+        "packagesPath": "C:\\Users\\satis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\satis\\Documents\\Backend\\todolist\\TodoList\\TodoList.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\satis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\satis\\Documents\\Backend\\todolist\\TodoList\\TodoList.Tests\\TodoList.Tests.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\satis\\Documents\\Backend\\todolist\\TodoList\\TodoList.Tests\\TodoList.Tests.csproj",
+        "projectName": "TodoList.Tests",
+        "projectPath": "C:\\Users\\satis\\Documents\\Backend\\todolist\\TodoList\\TodoList.Tests\\TodoList.Tests.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
